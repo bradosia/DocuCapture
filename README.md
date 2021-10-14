@@ -1,5 +1,5 @@
 # DocuCapture
-An offline software for capturing invoices and receipts into accounting formats using with advanced OCR, ML and AI technologies.
+An offline software for capturing invoices and receipts into accounting formats using standard OCR, ML and AI technologies.
 
 ## Competition
 || SAP Concur |FreshBooks|Expensify|Receipts by Wave|Appfolio|Quickbooks Smart receipt capture|
