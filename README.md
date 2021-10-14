@@ -9,7 +9,7 @@ An offline software for capturing invoices and receipts into accounting formats 
 |Trial|yes|30-day|yes|-|No|30-day|
 |Price|Consult|$6/mo|$5/mo|free|$250/mo|$12.50/mo|
 |Audience|Enterprise|Small Bus/personal|Small Bus/personal|Small Bus/personal|Medium Bus|Small/medium/personal|
-|Offline|Yes|No|No|No|No|No|
+|*Offline*|Yes|*No*|*No*|*No*|*No*|*No*|
 
 ## Problem
 Invoice capturing from all competitors involves sending invoices to the web and often waiting a couple minutes each invoice for the document to be fully processed. The issue is that capturing a hundred invoices and receipts with a 3 minute processing time means you will be waiting many hours for the processing to complete.
