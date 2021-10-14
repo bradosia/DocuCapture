@@ -17,6 +17,7 @@ Invoice capturing from all competitors involves sending invoices to the web and 
 DocuCapture is an offline solution for Phone and Desktop allowing invoice capture to be run locally, speeding up the processing by distributing processing jobs across the devices in your workplace. After processing, the processed invoices can be safely aggregated.
 
 ## Solution Diagram
+link
 
 ## Team Members needed
 - A business analyst for determining any other potential uses for the idea and indentify pitfalls and solutions.
