@@ -1,7 +1,7 @@
 # DocuCapture
 An offline software for capturing invoices and receipts into accounting formats using standard OCR, ML and AI technologies.
 
-# Background
+## Background
 
 Document capturing is when an accountant or user scans in an invoice or receipt to their device and the device automatically will populate the expenses into their accounting software. This requires OCR, ML and AI technologies.
 
