@@ -29,5 +29,5 @@ Small and Medium sized businesses. Can be used personally too.
 
 ## Team Members needed
 - A business analyst for determining any other potential uses for the idea and indentify pitfalls and solutions.
-- Marketer for determining the market segment
+- Marketer for determining the marketing stretegy
 - Apple mobile dev (or Android depending on whatever is the platform of choice). Just needs to take a photo, run the processing algorithm already developed, then send results to web.
