@@ -19,6 +19,14 @@ DocuCapture is an offline solution for Phone and Desktop allowing invoice captur
 ## Solution Diagram
 ![alt text](https://github.com/bradosia/DocuCapture/blob/main/ref/usage.png?raw=true)
 
+## Advantages over competition
+* Invoice and receipt capturing and processing speed scales with the devices that have DocuCapture installed.
+* Invoice an receipt capturing unaffected by web service outages
+* This is the only offline solution for small and mid-sized businesses. (SAP has a solution at the enterprise level)
+
+## Audience
+Small and Medium sized businesses. Can be used personally too. 
+
 ## Team Members needed
 - A business analyst for determining any other potential uses for the idea and indentify pitfalls and solutions.
 - Marketer for determining the market segment
