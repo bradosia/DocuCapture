@@ -22,4 +22,4 @@ DocuCapture is an offline solution for Phone and Desktop allowing invoice captur
 - A business analyst for determining any other potential uses for the idea and indentify pitfalls and solutions.
 - Marketer for determining the market segment
 - C++ Software Devs for desktop app and algorithm
-- Apple mobile Dev (or Android depending on interest)
+- Apple mobile dev (or Android depending on whatever is the platform of choice)
