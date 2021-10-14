@@ -13,4 +13,4 @@ An offline software for capturing invoices and receipts into accounting formats 
 Invoice capturing from all competitors involves sending invoices to the web and often waiting a couple minutes each invoice for the document to be fully processed. The issue is that capturing a hundred invoices and receipts with a 3 minute processing time means you will be waiting many hours for the processing to complete.
 
 ## Solution
-DocuCapture is an offline solution for Phone and Desktop allowing invoice capture to be run locally, speeding up the processing by distributing processing jobs across the devices in your workplace.
+DocuCapture is an offline solution for Phone and Desktop allowing invoice capture to be run locally, speeding up the processing by distributing processing jobs across the devices in your workplace. After processing, the processed invoices can be safely aggregated.
