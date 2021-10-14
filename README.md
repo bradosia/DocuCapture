@@ -7,7 +7,8 @@ An offline software for capturing invoices and receipts into accounting formats 
 |Phone App|Yes|Yes|Yes|Yes|-|Yes|
 |Track Expenses|Yes|Yes|Yes|Yes|Yes|Yes|
 |Trial|yes|30-day|yes|-|No|30-day|
-|Price|Consult|$6/mo|$5/mo|free|$250/mo|$12.50/mo
+|Price|Consult|$6/mo|$5/mo|free|$250/mo|$12.50/mo|
+|Audience|Enterprise|Small Bus/personal|Small Bus/personal|Small Bus/personal|Medium Bus|Small/medium/personal|
 |Offline|Yes|No|No|No|No|No|
 
 ## Problem
